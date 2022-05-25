@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 Hey there!
 I'm Suman, an undergraduate at NIT Andhra pursuing a degree in Electrical and Electronics Engineering. I'm learning backend web development as well as programming with Python, C, and Java.
 
-Find me at my [personal website](https://meskv.netlify.app/), or drop me an [email](https://meskv.netlify.app/).
+Find me at my [personal website](https://meskv.netlify.app/), or drop me an [email](krsk1495@gmail.com).
