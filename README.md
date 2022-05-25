@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **meskv/meskv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey there!
+### Hi there 👋
+
 I'm Suman, an undergraduate at NIT Andhra pursuing a degree in Electrical and Electronics Engineering. I'm learning backend web development as well as programming with Python, C, and Java.
 
 Find me at my [personal website](https://meskv.netlify.app/), or drop me an [email](mailto:krsk1495@gmail.com).
