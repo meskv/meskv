@@ -16,12 +16,13 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Suman Kumar Verma</h1>
-<h3 align="center">I'm Suman, an undergraduate at NIT Andhra and a passionate web developer.</h3>
+<h3 align="center">An undergraduate at NIT Andhra and a passionate web developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meskv&label=Profile%20views&color=0e75b6&style=flat" alt="meskv" /> </p>
 
+- 👨‍ Find me at my [personal website](https://meskv.netlify.app/)
+<!-- or drop me an [email](mailto:krsk1495@gmail.com). -->
 - 👨‍💻 All of my projects are available at [https://meskv.netlify.app/projects](https://meskv.netlify.app/projects)
-
 - 📫 How to reach me **krsk1495@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -35,5 +36,3 @@ Here are some ideas to get you started:
 
 
 I'm Suman, an undergraduate at NIT Andhra pursuing a degree in Electrical and Electronics Engineering. I'm learning backend web development as well as programming with Python, C, and Java.
-
-Find me at my [personal website](https://meskv.netlify.app/), or drop me an [email](mailto:krsk1495@gmail.com).
