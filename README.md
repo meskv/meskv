@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <!-- or drop me an [email](mailto:krsk1495@gmail.com). -->
 
-<h1 align="center">Hi 👋, I'm Suman Kumar Verma</h1>
+<h1 align="center">Hi 👋, I'm Suman </h1>
 <h3 align="center">An undergraduate at NIT Andhra and a passionate web developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meskv&label=Profile%20views&color=0e75b6&style=flat" alt="meskv" /> </p>
