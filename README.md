@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Suman </h1>
 <h3 align="center">An undergraduate at NIT Andhra and a passionate web developer.</h3>
-<h3 align="center">I'm pursuing a degree in Electrical and Electronics Engineering. I'm learning backend web development as well as programming with Python, C, and Java.</h3>
+<h3 align="">I'm pursuing a degree in Electrical and Electronics Engineering. I'm learning backend web development as well as programming with Python, C, and Java.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meskv&label=Profile%20views&color=0e75b6&style=flat" alt="meskv" /> </p>
 
