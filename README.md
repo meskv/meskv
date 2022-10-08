@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meskv&label=Profile%20views&color=0e75b6&style=flat" alt="meskv" /> </p>
 
-- 👨‍ Find me at my [personal website](https://meskv.netlify.app/)
+- 👨‍ Find me at my [personal website](https://meskv.github.io/aa)
 - 👨‍💻 All of my projects are available at [https://meskv.netlify.app/projects](https://meskv.netlify.app/projects)
 - 📫 How to reach me **krsk1495@gmail.com**
 
