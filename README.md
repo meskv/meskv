@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meskv&label=Profile%20views&color=0e75b6&style=flat" alt="meskv" /> </p>
 <img align="left" alt="kunaltyagi9 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=meskv&show_icons=true&hide_border=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meskv&layout=compact)](https://github.com/meskv/github-readme-stats)
+[(https://github-readme-stats.vercel.app/api/top-langs/?username=meskv&layout=compact)](https://github.com/meskv/github-readme-stats)
 
 - 👨‍ Find me at my [personal website](https://meskv.github.io/aa)
 - 👨‍💻 All of my projects are available at [https://meskv.netlify.app/projects](https://meskv.netlify.app/projects)
