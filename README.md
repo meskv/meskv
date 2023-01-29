@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 👨‍ Find me at my [personal website](https://meskv.github.io/aa)
+- 👨‍ Find me at my [personal website](https://meskv.github.io/portfolio)
 - 👨‍💻 All of my projects are available at [https://meskv.netlify.app/projects](https://meskv.netlify.app/projects)
 - 📫 How to reach me **krsk1495@gmail.com**
 
